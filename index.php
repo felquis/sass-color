@@ -55,7 +55,7 @@
           })();
         </script>
 
-        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://tutsmais.com.br/sass-color/" data-text="Ferramenta para testar as funções manipulação de cores do Sass" data-via="felquis" data-related="felquis">Tweet</a>
+        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://tutsmais.com.br/sass-color/" data-text="Ferramenta para escolher uma cor através das funções de manipulação de cores do Sass" data-via="felquis" data-related="felquis">Tweet</a>
         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
       </div>
     </div>
