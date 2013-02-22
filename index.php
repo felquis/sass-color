@@ -97,7 +97,7 @@
 
       <p>Eu criei isso por que para mim era difícil escolher uma cor para usar usando as funções de cores do Sass.</p>
 
-      <p>O código disso esta bem porco, e pretendo melhora-lo também.</p>
+      <p>O código disso esta bem porco, e pretendo melhora-lo também de uma <a href="https://github.com/felquis/sass-color" title="olhada no github se quiser me ajudar :)" target="_blank">olhada no github se quiser me ajudar :)</a></p>
 
       <h3>Agradecimento especial</h3>
 
@@ -111,7 +111,7 @@
   <script src="assets/js/script.js"></script>
 
   <script>
-    var _gaq=[['_setAccount','UA-23934923-8'],['_trackPageview']];
+    var _gaq=[['_setAccount','<UA-23934923-8></UA-23934923-8>'],['_trackPageview']];
     (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
     g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
     s.parentNode.insertBefore(g,s)}(document,'script'));
