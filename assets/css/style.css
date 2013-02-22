@@ -1,0 +1,12 @@
+.hidden {
+	display: none;
+}
+
+.colors-container li {
+	margin: 10px 0;
+}
+.colors-container .color-result {
+	color: #fff;
+	text-shadow: 1px 1px 1px #000;
+	padding: 8px 410px 8px 8px;
+}
