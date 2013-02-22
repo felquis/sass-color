@@ -33,6 +33,7 @@ $(function () {
 			url : 'parse.php',
 			type : 'post',
 			data : 'code=' + code + '&time=' + (new Date()).getTime(),
+			cache : true,
 			success : function (response) {
 				var res = response.replace(/.s{color:(#[\w\d]+);}/, '$1');
 				$this.find('.color-result').css({background: res}).text(res);
