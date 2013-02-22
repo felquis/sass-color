@@ -1,8 +1,16 @@
 <!doctype html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
   <title>Sass Mixin Colors preview</title>
+  <meta name="description" content="Escolha uma cor usando as funções de cores do Sass">
+  <meta property="og:title" content="Escolha uma cor usando as fun&#xe7;&#xf5;es de cores do Sass" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://tutsmais.com.br/sass-color/" />
+  <meta property="og:image" content="http://tutsmais.com.br/sass-color/assets/img/sass_logo.gif" />
+  <meta property="og:site_name" content="TutsMais" />
+  <meta property="fb:admins" content="100001345144139" />
+
   <link rel="stylesheet" href="assets/css/bootstrap.css" />
   <link rel="stylesheet" href="assets/css/style.css" />
 </head>
