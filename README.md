@@ -1,6 +1,6 @@
 # Escolha uma cor usando as funções do Sass
 
-[Teste ferramenta](http://localhost/sass-mixin-color/ "Teste ferramenta")
+[Teste a ferramenta](http://localhost/sass-mixin-color/ "Teste a ferramenta")
 
 Essa é uma ferramenta para ajudar a escolher uma função do Sass para encontrar uma cor.
 
