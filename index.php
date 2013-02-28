@@ -62,7 +62,7 @@
 
     <div class="row">
       <div class="span12">
-        Eu escolho: $color = <input type="color" value="#FF005A" placeholder="#000000" id="my-color" /> <button id="button-pronto">Pronto</button>
+        Eu escolho: $color = <input type="text" value="#FF005A" placeholder="#000000" id="my-color" /> <button id="button-pronto">Pronto</button>
       </div>
     </div>
 
@@ -73,16 +73,16 @@
 
         <ul class="colors-container">
           <li class="lighten item-container" data-function-name="lighten">
-            lighten($color, <input class="number-input" type="number" max="100" min="0" value="10" title="Ex: 10%"/>%) = <span class="color-result">#000000</span>
+            lighten($color, <input class="number-input" type="text" max="100" min="0" value="10" title="Ex: 10%"/>%) = <span class="color-result">#000000</span>
           </li>
           <li class="darken item-container" data-function-name="darken">
-            darken($color, <input class="number-input" type="number" max="100" min="0" value="20" title="Ex: 10%"  />%) = <span class="color-result">#000000</span>
+            darken($color, <input class="number-input" type="text" max="100" min="0" value="20" title="Ex: 10%"  />%) = <span class="color-result">#000000</span>
           </li>
           <li class="desaturate item-container" data-function-name="desaturate">
-            desaturate($color, <input class="number-input" type="number" max="100" min="0" value="40" title="Ex: 10%" />%) = <span class="color-result">#000000</span>
+            desaturate($color, <input class="number-input" type="text" max="100" min="0" value="40" title="Ex: 10%" />%) = <span class="color-result">#000000</span>
           </li>
           <li class="saturate item-container" data-function-name="saturate">
-            saturate($color, <input class="number-input" type="number" max="100" min="0" value="30" title="Ex: 10%" />%) = <span class="color-result">#000000</span>
+            saturate($color, <input class="number-input" type="text" max="100" min="0" value="30" title="Ex: 10%" />%) = <span class="color-result">#000000</span>
           </li>
         </ul>
       </div>
